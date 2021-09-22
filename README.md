@@ -1,3 +1,2 @@
-# angular-3jkkvq-g6drpv
-
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-3jkkvq-g6drpv)
+Credit for code belongs to https://ngrx.io/ 
+License: https://github.com/ngrx/platform/blob/master/LICENSE
